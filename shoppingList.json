@@ -1,0 +1,39 @@
+[
+    {
+        "productName":"純牛肉起司漢堡",
+        "description":"雙層牛肉",
+        "price": "78",
+        "qty": "4"
+    },
+    {
+        "productName":"四塊雞塊",
+        "description":"金黃酥脆",
+        "price": "49",
+        "qty": "2"
+        
+    },
+    {
+        "productName":"巧克力奶昔",
+        "description":"香甜濃密",
+        "price": "89",
+        "qty": "1"
+    },
+    {
+        "productName":"薯條(大)",
+        "description":"真正傳奇",
+        "price": "56",
+        "qty": "4"
+    },
+    {
+        "productName":"飲料",
+        "description":"有氣無糖",
+        "price": "40",
+        "qty": "4"
+    },
+    {
+        "productName":"蘋果派 (28元)",
+        "description":"含肉桂",
+        "price": "28",
+        "qty": "2"
+    }
+]
